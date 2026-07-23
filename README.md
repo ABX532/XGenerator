@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="xgenerator.png" width="600">
+  <img src="XGenerator.png" width="600">
 </p>
 
 # 🔐 XGenerator
